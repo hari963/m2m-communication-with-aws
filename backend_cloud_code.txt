@@ -1,0 +1,13 @@
+no backend code is required for this project
+// Import required SDKS/packages
+
+// Definde MQTT endpoints
+
+// Define MQTT Topics for PUB/SUB
+
+// Define qos
+
+// Add a listener/event handler for incomming iot messages on subscribed topic ,
+// and redirect command/response to required publish topic on which device/remote is listening
+
+// return response 
